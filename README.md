@@ -99,6 +99,8 @@ Sale_tax_calculator/
   - view/
     - console/
       - main.py
+    - gui/
+      - main.py  
   - controller/
     - __init__.py
 - tests/
@@ -118,6 +120,7 @@ Sale_tax_calculator/
 ## Requisitos
 
 - Python 3.10 o superior.
+- kivy.
 
 Para comprobar la versión instalada:
 
